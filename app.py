@@ -4,7 +4,7 @@ import yfinance as yf
 
 
 st.write(""" 
-            # Stock Price Analyser """)
+            # Stock Price Analyser by  Yogi """)
 
 
 ## get data for Apple's stock
